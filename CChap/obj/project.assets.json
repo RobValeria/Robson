@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robson\\Documents\\@Devmonk\\Estudos\\CChap\\CChap.csproj",
+      "projectUniqueName": "C:\\Users\\Robson\\Documents\\@Devmonk\\Repos\\Modulo 01\\Robson\\CChap\\CChap.csproj",
       "projectName": "CChap",
-      "projectPath": "C:\\Users\\Robson\\Documents\\@Devmonk\\Estudos\\CChap\\CChap.csproj",
+      "projectPath": "C:\\Users\\Robson\\Documents\\@Devmonk\\Repos\\Modulo 01\\Robson\\CChap\\CChap.csproj",
       "packagesPath": "C:\\Users\\Robson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robson\\Documents\\@Devmonk\\Estudos\\CChap\\obj\\",
+      "outputPath": "C:\\Users\\Robson\\Documents\\@Devmonk\\Repos\\Modulo 01\\Robson\\CChap\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Robson\\AppData\\Roaming\\NuGet\\NuGet.Config"
