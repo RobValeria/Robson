@@ -1,0 +1,15 @@
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\bin\Debug\net7.0\CChap.exe
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\bin\Debug\net7.0\CChap.deps.json
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\bin\Debug\net7.0\CChap.runtimeconfig.json
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\bin\Debug\net7.0\CChap.dll
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\bin\Debug\net7.0\CChap.pdb
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\obj\Debug\net7.0\CChap.csproj.AssemblyReference.cache
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\obj\Debug\net7.0\CChap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\obj\Debug\net7.0\CChap.AssemblyInfoInputs.cache
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\obj\Debug\net7.0\CChap.AssemblyInfo.cs
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\obj\Debug\net7.0\CChap.csproj.CoreCompileInputs.cache
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\obj\Debug\net7.0\CChap.dll
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\obj\Debug\net7.0\refint\CChap.dll
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\obj\Debug\net7.0\CChap.pdb
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\obj\Debug\net7.0\CChap.genruntimeconfig.cache
+C:\Users\Robson\Documents\@Devmonk\Estudos\CChap\obj\Debug\net7.0\ref\CChap.dll
